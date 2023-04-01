@@ -10,7 +10,7 @@ let package = Package(
             targets: ["CLISpinner"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/onevcat/Rainbow", from: "3.1.4"),
+        .package(url: "https://github.com/onevcat/Rainbow", from: "4.0.0"),
     ],
     targets: [
         .target(
